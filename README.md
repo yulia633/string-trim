@@ -27,5 +27,5 @@ print_r($exampleString); //Пример очень длинной строки, 
 ---
 
 #### Поддержка
-* PHP 8.1
+* PHP >=7.4
 * Composer
